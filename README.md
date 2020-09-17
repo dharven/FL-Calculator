@@ -17,3 +17,4 @@ FL calculator is an android application which calculates the friendship percenta
 The apk of this application can be found in the apk folder in the repositries.
 
 ## Application-Output
+![s](https://user-images.githubusercontent.com/70836668/93513926-2f026580-f944-11ea-91a5-a17f3a4afc01.png)
