@@ -22,4 +22,4 @@ The apk of this application can be found in the apk folder in the repositries.
 
 ## Team
 1. Dharven Doshi(https://github.com/dharven)
-2. Shashank Mistry
+2. Shashank Mistry(https://github.com/ShashankMistry)
